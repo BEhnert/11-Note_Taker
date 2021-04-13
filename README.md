@@ -1,10 +1,11 @@
 
   # Title
     Note Taker
-  ### Description
+
+  # Description
   This application will allow users to create, view, and delete notes
 
-  ##### Table of Contents
+  # Table of Contents
    [Installation](#installation)
    [Usage](#usage)
    [License](#license)
