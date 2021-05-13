@@ -16,7 +16,7 @@
   ### Installation
     None needed, deployed on Heroku, simply click on this link - 
 
-      https://evening-ravine-10572.herokuapp.com/
+  [Note Taker](https://evening-ravine-10572.herokuapp.com/)
       
   ### Usage
     After navigating to home page, click on 'Get Started'
