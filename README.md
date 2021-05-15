@@ -1,4 +1,4 @@
-
+![](images/Note_Taker.png)
   # Title
     Note Taker
 
